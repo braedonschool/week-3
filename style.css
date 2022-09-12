@@ -9,7 +9,7 @@
     border-radius: 15px;
 }
 
-div.paragraphs {
+.paragraphs {
     color: rgb(0, 153, 255);
     font-family: Verdana;
     text-align: center;
@@ -27,12 +27,12 @@ div.paragraphs {
     font-size: 10px;
 }
 
-div.list-1 {
+.list-1 {
     text-align: center;
 }
 
 ul {
-    color: rgb(0, 153, 255);
+    color: white;
     font-family: Verdana;
     text-align: center;
     display: inline-block;
